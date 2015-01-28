@@ -1,7 +1,7 @@
 Package.describe({
   name: 'octaviomtc:materialize-meteor-js',
   summary: 'A modern responsive front-end framework based on Material Design, Only JS and Fonts',
-  version: '1.95.0',
+  version: '0.0.1',
   git: 'https://github.com/octaviomtc/materialize-meteor-js.git'
 });
 
